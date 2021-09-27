@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/Arbol.cpp
+Arbol.h
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/Arbol.h
+
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/Arbol.h
+string
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/string
+vector
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/vector
+iostream
+-
+
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/main.cpp
+Arbol.h
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/Arbol.h
+

@@ -1,0 +1,3 @@
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/cmake-build-debug/CMakeFiles/BusquedaEnAmplitud_8_Puzzle.dir
+C:/Users/Dorian/CLionProjects/BusquedaEnAmplitud-8_Puzzle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
